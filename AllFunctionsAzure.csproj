@@ -6,6 +6,7 @@
   <ItemGroup>
     <PackageReference Include="Azure.Connectors.MicrosoftTeams" Version="0.0.4-alpha" />
     <PackageReference Include="Azure.Connectors.OneDrive" Version="0.0.4-alpha" />
+    <PackageReference Include="Azure.Connectors.Outlook" Version="0.0.4-alpha" />
     <PackageReference Include="Azure.Connectors.TextAnalytics" Version="0.0.4-alpha" />
     <PackageReference Include="Microsoft.Azure.WebJobs.Extensions.Storage" Version="3.0.4" />
     <PackageReference Include="Microsoft.NET.Sdk.Functions" Version="3.0.7" />

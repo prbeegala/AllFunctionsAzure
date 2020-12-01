@@ -13,6 +13,8 @@ using Newtonsoft.Json;
 using Azure.Connectors.MicrosoftTeams;
 using Azure.Connectors.TextAnalytics;
 using Azure.Connectors.TextAnalytics.Models;
+using Azure.Connectors.OneDrive;
+using Azure.Connectors.OneDrive.Models;
 
 using Microsoft.Rest.TransientFaultHandling;
 using Microsoft.Rest.Azure;
