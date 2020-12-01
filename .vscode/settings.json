@@ -1,5 +1,5 @@
 {
-    "azureFunctions.deploySubpath": "API Connectors\\Functions\\SaveAttachmentToOneDrive/bin/Release/netcoreapp3.1/publish",
+    "azureFunctions.deploySubpath": "API Connectors\\Functions\\TeamsSentimentScore/bin/Release/netcoreapp3.1/publish",
     "azureFunctions.projectLanguage": "C#",
     "azureFunctions.projectRuntime": "~3",
     "debug.internalConsoleOptions": "neverOpen",

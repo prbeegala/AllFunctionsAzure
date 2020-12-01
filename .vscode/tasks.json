@@ -12,7 +12,7 @@
 			"type": "process",
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/API Connectors\\Functions\\SaveAttachmentToOneDrive"
+				"cwd": "${workspaceFolder}/API Connectors\\Functions\\TeamsSentimentScore"
 			}
 		},
 		{
@@ -31,7 +31,7 @@
 			},
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/API Connectors\\Functions\\SaveAttachmentToOneDrive"
+				"cwd": "${workspaceFolder}/API Connectors\\Functions\\TeamsSentimentScore"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "process",
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/API Connectors\\Functions\\SaveAttachmentToOneDrive"
+				"cwd": "${workspaceFolder}/API Connectors\\Functions\\TeamsSentimentScore"
 			}
 		},
 		{
@@ -64,14 +64,14 @@
 			"dependsOn": "clean release",
 			"problemMatcher": "$msCompile",
 			"options": {
-				"cwd": "${workspaceFolder}/API Connectors\\Functions\\SaveAttachmentToOneDrive"
+				"cwd": "${workspaceFolder}/API Connectors\\Functions\\TeamsSentimentScore"
 			}
 		},
 		{
 			"type": "func",
 			"dependsOn": "build",
 			"options": {
-				"cwd": "${workspaceFolder}/API Connectors\\Functions\\SaveAttachmentToOneDrive/bin/Debug/netcoreapp3.1"
+				"cwd": "${workspaceFolder}/API Connectors\\Functions\\TeamsSentimentScore/bin/Debug/netcoreapp3.1"
 			},
 			"command": "host start",
 			"isBackground": true,
