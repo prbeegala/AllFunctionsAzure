@@ -1,0 +1,10 @@
+<html>
+<head><title>Email</title></head>
+<body>
+<h1>You've won a smiley face</h1>
+<image src="https://imagetrackersma.azurewebsites.net/api/imagedummy?sneakyid='guid-here'">
+<a href="https://imagetrackersma.azurewebsites.net/api/emaildummy?sneakyid='guid-here'">
+CLICK HERE FOR A FREE VOUCHER
+</a>
+</body>
+</html>
